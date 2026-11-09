@@ -24,12 +24,25 @@ The installed taste skills and the sources agree on these points. The direction 
 
 Several taste rules conflict with the brand and are dropped. These are font swaps away from Lato, serif or mono accents, pastels, grain, glass, extra radii and discouraged icon sets.
 
+## Admired site survey
+
+On 9 November 2026 the first viewport of six sites was viewed at about 1530 by 780 pixels. Nothing was scrolled, no interaction was tested and no performance was measured. Palantir stayed blank on two loads and is not assessed. The Oatly cookie banner covered its first view.
+
+- Commonwealth Fusion Systems pairs a full-bleed photograph of real machined hardware with a short sentence-case headline and a floating navigation bar.
+- Fervo Energy pairs a full-bleed aerial photograph of a real drilling site under a deep blue wash with a one-sentence headline and a minimal navigation.
+- Form Energy uses a grey gradient and an all-caps headline. It is plain and weaker than the two above.
+- Rio Tinto uses a human photograph, a two-line headline and two buttons. It is warm and conventional.
+- Stripe is admired for polish, but its gradient identity conflicts with the Athenium rules.
+- Oatly uses a loud poster-style cover. It shows that consumer brands can be bold, and it does not suit our audience.
+
+The strongest energy and industrial sites rely on real photography under a controlled dark wash, a short headline and little ornament. This supports the photography rule in DESIGN.md. It also means that a page without approved photography must earn its quality through scale, spacing and evidence. No confirmed restrained mining or fuel exemplar exists. Francois van Heerden names the sites the team admires.
+
 ## Not verified
 
-- Visual craft of any admired site. The survey needs a connected browser and has not been done.
+- Scroll behaviour, motion, mobile layout and performance of every surveyed site.
 - Licence terms of the `vercel-labs/agent-skills` repository, and brand or trademark limits for GOV.UK, Primer and Carbon.
 - The WCAG 2.2 criteria list, which came from memory and must be checked against the W3C pages.
-- The DESIGN.md schema against the linter. The linter run was blocked and has not been done.
+- The DESIGN.md schema against the linter, until the linter result is recorded in the pull request.
 
 ## Referrals
 
