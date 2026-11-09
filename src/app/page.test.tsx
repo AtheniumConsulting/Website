@@ -3,12 +3,12 @@ import { describe, expect, it } from "vitest";
 import Home from "./page";
 
 describe("Home page", () => {
-  it("states the Athenium strapline as the main heading", () => {
+  it("states the headline as the single main heading", () => {
     render(<Home />);
     expect(
       screen.getByRole("heading", {
         level: 1,
-        name: "Connected technologies meet industry expertise.",
+        name: "Technology built for the work of Africa's resources.",
       }),
     ).toBeInTheDocument();
   });
