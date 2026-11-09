@@ -4,7 +4,7 @@ The Athenium Consulting website. Athenium exists for the liberation of Africa's 
 
 ## Status
 
-Planning. The technology stack is decided and documented. The application has not yet been scaffolded.
+Scaffolded. The technology stack is decided and documented. The base application runs with the Athenium design system applied, and the checks run in GitHub Actions. Sanity and Supabase follow with the first features that need them.
 
 ## Stack
 
@@ -16,6 +16,10 @@ The full reasoning sits in [TECHNOLOGY-STACK](./TECHNOLOGY-STACK). In summary:
 - **Backend:** Supabase for Postgres, authentication, and row-level security. Staff sign in with Microsoft 365 and public visitors register.
 - **Verification:** Vitest, Playwright, ESLint, Prettier, and the TypeScript compiler.
 - **Operations:** GitHub, GitHub Actions, Vercel, and Sentry.
+
+## Commands
+
+Run `npm install` once, then `npm run dev` to start the site. The checks are `npm run format:check`, `npm run lint`, `npm run typecheck`, `npm test`, `npm run build` and `npm run test:e2e`. See [CLAUDE.md](./CLAUDE.md) for the working rules.
 
 ## How we work
 

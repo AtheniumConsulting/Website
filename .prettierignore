@@ -1,0 +1,11 @@
+.next
+node_modules
+package-lock.json
+playwright-report
+test-results
+coverage
+src/fonts
+public
+README.md
+TECHNOLOGY-STACK
+AGENTS.md
