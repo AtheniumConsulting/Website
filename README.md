@@ -10,7 +10,10 @@ On 24 November 2026 a bare Next.js project was added for launch task T118. It ca
 
 ## Run it
 
+The Next.js app lives in `web/`. The Sanity Studio will live beside it in `studio/`.
+
 ```
+cd web
 npm install
 npm run dev
 ```
