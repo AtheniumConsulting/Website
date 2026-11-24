@@ -24,4 +24,4 @@ The 11 December launch date left no room to wait for an approved design before s
 
 - Commits use `slade-athenium`, with no Claude attribution.
 - The brand values are in [BRAND.md](./BRAND.md).
-- Open work sits in GitHub issues, mainly the content harvest and the positioning record.
+- Open work sits in the Website Launch Tracker (ATH_WebsiteLaunch_Tracker_v1_0.xlsx in the Lighthouse, 02.Content Library / 02. Website Content). The GitHub issues were closed on 24 November 2026.
