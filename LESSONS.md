@@ -16,6 +16,10 @@ Over one long session the work produced a scaffold, CI, tests, Sanity schemas, a
 6. Keep volume proportionate. Seven pull requests of notes and frameworks before one pleasing page was too much. Prefer one small thing the owner can react to.
 7. Admired sites in this space rely on real photography under a dark wash, a short headline and strong scale.
 
+## Exception recorded on 24 November 2026
+
+The 11 December launch date left no room to wait for an approved design before setting up the project. The owner approved a bare Next.js skeleton for T118: Lato, brand colours and a holding page. Lesson 2 still applies to everything else. Tests, CI and schemas wait for an approved design.
+
 ## Still true
 
 - Commits use `slade-athenium`, with no Claude attribution.

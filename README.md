@@ -4,7 +4,18 @@ The Athenium Consulting website. Athenium exists for the liberation of Africa's 
 
 ## Status
 
-Reset to basics on 9 November 2026. The repository holds notes only. There is no application code. The previous scaffold and landing page were removed because they were over engineered and the page looked flat. Everything remains in git history, ending at the merge of pull request 23.
+Reset to basics on 9 November 2026. The previous scaffold and landing page were removed because they were over engineered and the page looked flat. Everything remains in git history, ending at the merge of pull request 23.
+
+On 24 November 2026 a bare Next.js project was added for launch task T118. It carries Lato, the brand colours and a holding page only. There are no tests, CI or content schemas.
+
+## Run it
+
+```
+npm install
+npm run dev
+```
+
+Then open http://localhost:3000.
 
 ## Files
 
@@ -14,4 +25,4 @@ Reset to basics on 9 November 2026. The repository holds notes only. There is no
 
 ## Next
 
-Slade Rose reviews web design repositories for Claude Code, then the team decides how the brand values fit a web design framework. No application is built before that decision. The team keeps authority over the four control points in CLAUDE.md.
+Francois chooses a design direction under T064. Page layouts and components are built only after that choice. The team keeps authority over the four control points in CLAUDE.md.

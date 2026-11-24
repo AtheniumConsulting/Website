@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Brand values from BRAND.md. Gold is the single accent. */
+@theme inline {
+  --color-gold: #fba91a;
+  --color-orange: #ef5828;
+  --color-orange-dark: #eb5c46;
+  --color-dark: #2d363f;
+  --color-black: #0f1419;
+  --color-grey: #505b60;
+  --color-off-white: #f9f9f9;
+  --color-white: #ffffff;
+  --font-sans: var(--font-lato), sans-serif;
+}
+
+body {
+  background: var(--color-white);
+  color: var(--color-dark);
+  font-family: var(--font-sans);
+}
