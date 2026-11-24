@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Guidance for Claude Code in this repository. The repository holds notes only. Read [LESSONS.md](./LESSONS.md) before proposing any build.
+Guidance for Claude Code in this repository. The repository holds notes and a bare Next.js project. Read [LESSONS.md](./LESSONS.md) before proposing any build.
 
 ## Working
 
